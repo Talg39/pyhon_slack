@@ -2,6 +2,8 @@
 python_slack_notification
 Code sample to test if url is valid and update slack channels with the information.
 
+**Python version - 3.9.5 **
+
 ## Repo includes the following
 1. Main script
 2. f.py functions file that include function to test and dechipher url status code.
