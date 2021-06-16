@@ -1,4 +1,4 @@
-# pyhon_slack
+# python_slack
 python_slack_notification
 Code sample to test if url is valid and update slack channels with the information.
 
@@ -6,8 +6,8 @@ Code sample to test if url is valid and update slack channels with the informati
 
 ## Repo includes the following
 1. Main script
-2. f.py functions file that include function to test and dechipher url status code.
-3. slack.py that show the basic to send slack message to channel from slack documentation (https://slack.dev/python-slackclient/basic_usage.html)
+2. f.py function file that includes functions to test and dechipher url status codes.
+3. slack.py that shows the basic of how to send slack message to a channel from slack documentation (https://slack.dev/python-slackclient/basic_usage.html)
 4. URL to clone repo https://github.com/Talg39/python_slack.git
 ### Task
 1. Validate that the code is running as expected as given, if not fix the mistakes.
@@ -20,7 +20,7 @@ Code sample to test if url is valid and update slack channels with the informati
     * When the status code isn't 200 (OK)
     * When given url by the user input is not valid 
     
-4. When finish, ask for permissions to commit-push. Before commit and push the code remove the token variable for slack (security reassons :) )
+4. Before committing and pushing the code remove the token variable for slack (security reassons :) )
 
 #### Bonus
 1. Include in the slack message the current logged in user to the computer
