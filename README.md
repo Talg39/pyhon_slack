@@ -20,7 +20,7 @@ Code sample to test if url is valid and update slack channels with the informati
     * When the status code isn't 200 (OK)
     * When given url by the user input is not valid 
     
-4. When finish before commit and push the code remove the token variable for slack (security reassons :) )
+4. When finish, ask for permissions to commit-push. Before commit and push the code remove the token variable for slack (security reassons :) )
 
 #### Bonus
 1. Include in the slack message the current logged in user to the computer
