@@ -14,9 +14,9 @@ Code sample to test if url is valid and update slack channels with the informati
       * url address that the user has given.
       * status code
 3. There are three scenarios when the code will send the message. (see comments in code where to call the function)
-    a. When status code is 200 (OK)
-    b. When the status code isn't 200 (OK)
-    c. When given url by the user input is not valid 
+    * When status code is 200 (OK)
+    * When the status code isn't 200 (OK)
+    * When given url by the user input is not valid 
     
 4. When finish before commit and push the code remove the token variable for slack (security reassons :) )
 
