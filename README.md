@@ -6,7 +6,7 @@ Code sample to test if url is valid and update slack channels with the informati
 1. Main script
 2. f.py functions file that include function to test and dechipher url status code.
 3. slack.py that show the basic to send slack message to channel from slack documentation (https://slack.dev/python-slackclient/basic_usage.html)
-
+4. URL to clone repo https://github.com/Talg39/python_slack.git
 ### Task
 1. Validate that the code is running as expected as given, if not fix the mistakes.
 2. Complete the slack function to send slack messages to a channel.
