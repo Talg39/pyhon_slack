@@ -22,7 +22,7 @@ def get_url(url):
 
 def decipher_status(statusCode):
     switcher = {
-        200: "OKK",
+        200: "OK",
         301: "Permanent Redirect - 301",
         302: "Temporary Redirect - 302",
         404: "Not Found - 404",
